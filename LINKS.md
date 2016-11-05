@@ -55,3 +55,8 @@ https://en.wikipedia.org/wiki/G%C3%B6del_metric
 https://en.wikipedia.org/wiki/Mach%27s_principle
 
 http://www.nextbigfuture.com/2016/10/argonne-researchers-posit-way-to.html
+https://news.ycombinator.com/item?id=12845995
+https://arxiv.org/abs/1407.4437
+
+http://www.nextbigfuture.com/2016/10/physicists-induce-superconductivity-in.html
+
