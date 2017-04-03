@@ -68,4 +68,5 @@ https://arxiv.org/abs/0812.3087
 https://arxiv.org/abs/1412.8234
 https://phys.org/news/2017-01-quantum-vacuum-traffic-space.html
 https://arxiv.org/pdf/1701.01109.pdf
-
+https://en.wikipedia.org/wiki/Pair_production
+https://en.wikipedia.org/wiki/Schwinger_limit
