@@ -27,3 +27,7 @@ The above parameter is equal to 1 when the plates are in a conducting state. The
 ## Rotating systems
 
 [The Hunt For Zero Point](https://books.google.com/books?id=b97ahFqu_U4C&lpg=PP1&pg=PP1#v=onepage&q&f=false) goes into depth about rotating systems. [Eugene Podkletnov](https://en.wikipedia.org/wiki/Eugene_Podkletnov) built a gravity shielding system out of a rotating superconductor. With the [G&ouml;del solution](https://en.wikipedia.org/wiki/G%C3%B6del_metric) the universe rotates and allows for time travel. A rotating superconductor could be a simulation of a rotating universe. Time travel allows for free energy: go back into time and the steal the same electron. Does a simulation of time travel happen in a spinning superconductor?
+
+## Infinite information in finite space
+
+Per [Holographic principle](https://en.wikipedia.org/wiki/Holographic_principle) the amount of information contained in a volume is proportional to the surface area of the volume. If the volume is a [Menger sponge](https://en.wikipedia.org/wiki/Menger_sponge) then an infinite amount of information is stored in zero amount of space.
