@@ -70,3 +70,7 @@ https://phys.org/news/2017-01-quantum-vacuum-traffic-space.html
 https://arxiv.org/pdf/1701.01109.pdf
 https://en.wikipedia.org/wiki/Pair_production
 https://en.wikipedia.org/wiki/Schwinger_limit
+
+https://www.quantamagazine.org/symmetry-algebra-and-the-monster-20170817/  
+https://www.quantamagazine.org/mathematicians-chase-moonshine-string-theory-connections-20150312/  
+
