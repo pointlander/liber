@@ -74,3 +74,4 @@ https://en.wikipedia.org/wiki/Schwinger_limit
 https://www.quantamagazine.org/symmetry-algebra-and-the-monster-20170817/  
 https://www.quantamagazine.org/mathematicians-chase-moonshine-string-theory-connections-20150312/  
 
+https://www.quantamagazine.org/mathematicians-tame-rogue-waves-illuminating-future-of-led-lighting-20170822/  
