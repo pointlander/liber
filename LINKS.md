@@ -80,3 +80,4 @@ https://www.quantamagazine.org/mathematicians-tame-rogue-waves-illuminating-futu
 https://news.ycombinator.com/item?id=15606981  
 https://www.nature.com/news/the-new-thermodynamics-how-quantum-physics-is-bending-the-rules-1.22937  
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.012146  
+https://arxiv.org/abs/1607.04234  
