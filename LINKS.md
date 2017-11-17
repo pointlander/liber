@@ -81,3 +81,10 @@ https://news.ycombinator.com/item?id=15606981
 https://www.nature.com/news/the-new-thermodynamics-how-quantum-physics-is-bending-the-rules-1.22937  
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.012146  
 https://arxiv.org/abs/1607.04234  
+
+## Negative mass
+https://www.nextbigfuture.com/2017/11/mach-effect-propulsion-2016-it-is-proven-replicated-and-will-scale-to-fast-interstellar-travel.html  
+https://www.youtube.com/watch?v=iUFnaApKk-0  
+https://www.youtube.com/watch?v=-HRxod4InDo  
+https://en.wikipedia.org/wiki/Negative_mass  
+http://www.fv-berlin.de/news/negative-mass-and-high-speed-how-electrons-go-their-own-ways?set_language=en  
