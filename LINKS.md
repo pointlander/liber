@@ -88,3 +88,8 @@ https://www.youtube.com/watch?v=iUFnaApKk-0
 https://www.youtube.com/watch?v=-HRxod4InDo  
 https://en.wikipedia.org/wiki/Negative_mass  
 http://www.fv-berlin.de/news/negative-mass-and-high-speed-how-electrons-go-their-own-ways?set_language=en  
+
+# DIA Study: Warp Drive, Dark Energy, and Manipulation of Extra Dimensions (2010)
+https://news.ycombinator.com/item?id=17491821  
+https://publicintelligence.net/dia-warp-drives/  
+https://info.publicintelligence.net/DIA-WarpDrives.pdf  
