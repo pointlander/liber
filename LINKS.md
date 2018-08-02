@@ -92,4 +92,12 @@ http://www.fv-berlin.de/news/negative-mass-and-high-speed-how-electrons-go-their
 # DIA Study: Warp Drive, Dark Energy, and Manipulation of Extra Dimensions (2010)
 https://news.ycombinator.com/item?id=17491821  
 https://publicintelligence.net/dia-warp-drives/  
-https://info.publicintelligence.net/DIA-WarpDrives.pdf  
+https://info.publicintelligence.net/DIA-WarpDrives.pdf
+
+# Dark Energy
+https://cosmosmagazine.com/physics/the-cosmological-constant-may-not-be-constant-after-all  
+https://www.forbes.com/sites/startswithabang/2017/05/30/is-there-really-a-cosmological-constant-or-is-dark-energy-changing-with-time/  
+https://www.skyandtelescope.com/astronomy-news/does-dark-energy-change-over-time-2808201723/  
+http://scienceblogs.com/startswithabang/2017/05/30/is-there-really-a-cosmological-constant-or-is-dark-energy-changing-with-time-synopsis/  
+http://www.preposterousuniverse.com/blog/2010/02/22/energy-is-not-conserved/  
+http://adsabs.harvard.edu/full/1995ApJ...446...63H  
