@@ -101,3 +101,8 @@ https://www.skyandtelescope.com/astronomy-news/does-dark-energy-change-over-time
 http://scienceblogs.com/startswithabang/2017/05/30/is-there-really-a-cosmological-constant-or-is-dark-energy-changing-with-time-synopsis/  
 http://www.preposterousuniverse.com/blog/2010/02/22/energy-is-not-conserved/  
 http://adsabs.harvard.edu/full/1995ApJ...446...63H  
+
+# Gravitational-magnetic-electric field interaction
+https://www.reddit.com/r/science/comments/9co8vp/potential_for_gravitational_manipulation_with/  
+https://www.sciencedirect.com/science/article/pii/S2211379718314128  
+
